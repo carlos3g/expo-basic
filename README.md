@@ -8,7 +8,7 @@
   <div id="badges">
     <img src="https://img.shields.io/github/repo-size/carlos3g/expo-basic?color=4000FF" alt="repo-size" />
     <img src="https://img.shields.io/github/issues-raw/carlos3g/expo-basic?color=4000FF" alt="issues" />
-    <img src="https://img.shields.io/github/license/carlos3g/expo-basic?color=4000FF" alt="license" />
+    <img src="https://img.shields.io/badge/license-MIT-4000FF" alt="license" />
   </div>
 </div>
     
