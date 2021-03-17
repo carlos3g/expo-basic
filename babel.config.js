@@ -19,6 +19,10 @@ const importOptions = {
       rootPathSuffix: './src/services',
       rootPathPrefix: '@services/',
     },
+    {
+      rootPathSuffix: './src/styles',
+      rootPathPrefix: '@styles/',
+    },
   ],
 };
 
