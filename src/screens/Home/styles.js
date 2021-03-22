@@ -19,7 +19,7 @@ export const Container = styled(SafeAreaView)`
 `;
 
 export const Title = styled.Text`
-  color: #f8f8f2;
+  color: #c8c7dd;
   font-size: 18px;
   text-align: center;
 `;
