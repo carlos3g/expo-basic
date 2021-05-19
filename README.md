@@ -3,7 +3,7 @@
     expo-basic
   </h1>
   <blockquote>
-    A  expo template with basic configs
+    A expo template with basic configs
   </blockquote>
   <div id="badges">
     <img src="https://img.shields.io/github/repo-size/carlos3g/expo-basic?color=4000FF" alt="repo-size" />
@@ -14,19 +14,32 @@
     
 ## Table of contents
 
-- [About the project](#-about-the-projects)
-- [How to run the project](#-how-to-run-the-project)
-- [Screenshots](#-screenshots)
-- [Technologies used](#-technologies-used)
-- [How to contribute with](#-how-to-contribute-with)
+- [About the project](#-about-the-project)
+  - [Screenshots](#-screenshots)
+  - [Technologies](#-technologies)
+  - [How to run](#-how-to-run)
+- [How to contribute](#-how-to-contribute)
 - [License](#-license)
 
 ## 💻 About the project
 
-expo-basic is a expo template with basic configs and packages already configured.
-Examples of in what this template You save time to You: React Navigation V5, axios, styled-components, relative paths...
+expo-basic is a expo template with basic configs and packages already configured. Examples of in what this template You save time to You: React Navigation V5, axios, styled-components, relative paths...
 
-## 🚀 How to run the project
+### 📷 Screenshots
+
+<img src=".github/images/mockup.png" alt="Screenshot" width="300"/>
+
+### 🛠 Technologies
+
+The following technologies were used in the construction of the project:
+
+- [Expo](https://expo.io/)
+- [Axios](https://github.com/axios/axios)
+- [Styled-components](https://styled-components.com)
+- [React Navigation V5](https://reactnavigation.org)
+- [babel-plugin-root-import](https://www.npmjs.com/package/babel-plugin-root-import)
+
+### 🚀 How to run
 
 #### Clone the repository
 
@@ -34,7 +47,7 @@ Examples of in what this template You save time to You: React Navigation V5, axi
 git clone https://github.com/carlos3g/expo-basic.git
 ```
 
-#### Install dependencies
+#### Install the dependencies
 
 ```bash
 cd expo-basic
@@ -47,21 +60,14 @@ yarn install
 yarn start
 ```
 
-## 📷 Screenshots
+#### Download the 'Expo Go' APP
 
-<img src=".github/images/mockup.png" alt="Screenshot" width="300"/>
+- [Google Play Store](https://play.google.com/store/apps/details?id=host.exp.exponent)
+- [App Store](https://apps.apple.com/br/app/expo-client/id982107779)
 
-## 🛠 Technologies used
+#### Using the mentioned APP, Scan the QR Code opened in step 3
 
-The following tools were used in the construction of the project:
-
-- [Expo](https://expo.io/)
-- [Axios](https://github.com/axios/axios)
-- [Styled-components](https://styled-components.com)
-- [React Navigation V5](https://reactnavigation.org)
-- [babel-plugin-root-import](https://www.npmjs.com/package/babel-plugin-root-import)
-
-## 🤝 How to contribute with
+## 🤝 How to contribute
 
 Every kind of contribution is welcome, we admire it!
 
@@ -77,4 +83,8 @@ This project is under the MIT license. See the file [LICENSE](LICENSE) for more 
 
 ---
 
+<div align="center">
+
 Created by [Carlos Mesquita](https://github.com/carlos3g) 💜
+
+</div>
