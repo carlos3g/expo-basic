@@ -41,31 +41,31 @@ The following technologies were used in the construction of the project:
 
 ### 🚀 How to run
 
-#### Clone the repository
+1. Clone the repository
 
-```bash
-git clone https://github.com/carlos3g/expo-basic.git
-```
+   ```bash
+   git clone https://github.com/carlos3g/expo-basic.git
+   ```
 
-#### Install the dependencies
+2. Install the dependencies
 
-```bash
-cd expo-basic
-yarn install
-```
+   ```bash
+   cd expo-basic
+   yarn install
+   ```
 
-#### Run the application
+3. Run the application
 
-```bash
-yarn start
-```
+   ```bash
+   yarn start
+   ```
 
-#### Download the 'Expo Go' APP
+4. Download the 'Expo Go' APP
 
-- [Google Play Store](https://play.google.com/store/apps/details?id=host.exp.exponent)
-- [App Store](https://apps.apple.com/br/app/expo-client/id982107779)
+   - [Google Play Store](https://play.google.com/store/apps/details?id=host.exp.exponent)
+   - [App Store](https://apps.apple.com/br/app/expo-client/id982107779)
 
-#### Using the mentioned APP, Scan the QR Code opened in step 3
+5. Using the mentioned APP, Scan the QR Code opened in step 3
 
 ## 🤝 How to contribute
 
