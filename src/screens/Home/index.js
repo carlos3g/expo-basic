@@ -6,7 +6,7 @@ function HomeScreen() {
   return (
     <Wrapper>
       <Container >
-        <Title>This is the expo-basic template by carlos3g</Title>
+        <Title>This is the expo-basic template made by carlos3g</Title>
       </Container>
     </Wrapper>
   );
