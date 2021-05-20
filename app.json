@@ -1,44 +1,44 @@
 {
   "expo": {
     "name": "expo-basic",
-    "description": "expo-basic - a expo template with basic configs",
+    "description": "A expo template with basic configs",
     "slug": "expo-basic",
     "version": "1.0.0",
     "githubUrl": "https://github.com/carlos3g/expo-basic",
     "orientation": "portrait",
+    "backgroundColor": "#100E34",
+    "primaryColor": "#4F39FC",
     "icon": "./assets/icon.png",
-
-    "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
-    },
-    "updates": {
-      "fallbackToCacheTimeout": 0
-    },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
-
-    "ios": {
-      "supportsTablet": true
-    },
-
-    "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
-      },
-      "permissions": []
+    "androidStatusBar": {
+      "barStyle": "light-content"
     },
     "androidNavigationBar": {
       "visible": "sticky-immersive",
-      "barStyle": "dark-content",
-      "backgroundColor": "#ffffff"
+      "barStyle": "light-content",
+      "backgroundColor": "#100E34"
     },
-
+    "updates": {
+      "enabled": false,
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#100E34"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png"
+      },
+      "permissions": []
+    },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/favicon.png",
+      "themeColor": "#4F39FC"
     }
   }
 }
