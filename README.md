@@ -23,7 +23,7 @@
 
 ## 💻 About the project
 
-expo-basic is a expo template with basic configs and packages already configured. Examples of in what this template You save time to You: React Navigation V5, axios, styled-components, relative paths...
+This is a expo template with basic configs and packages already configured. It was made to save your time in small things
 
 ### 📷 Screenshots
 
